@@ -59,7 +59,7 @@ const AdminProjectD = ({ project }) => {
                     >
                       DELETE
                     </button>
-                    <Link to={`/Admin-acos12333/project/${element._id}`}>
+                    <Link to={`/Admin-acos-12333/project/${element._id}`}>
                     <button className="mainBtn3">UPDATE</button>
                     </Link>
                   </div>
